@@ -72,6 +72,8 @@ RECIP        | reciprocal          | 'each other'
 REFL         | reflexive           | 'self'
 REV          | reversive           | 'undo'
 SG           | singular            |
+SJV          | subjunctive         |
 STAT         | stative             |
+SUBJ         | subject             |
 TLOC         | translocative       | motion away from the deictic center (speaker)
 Z            | zoic                | animals
