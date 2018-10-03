@@ -1,5 +1,20 @@
 # Resources for Linguistics
 
+## Fonts
+
+* Aboriginal Sans
+* Aboriginal Serif
+* African Sans
+* African Serif
+* Andika
+* Charis SIL
+* DejaVun Sans Mono
+* Doulos SIL
+* Gentium Plus
+* Lucida Sans Unicode
+* Times New Roman
+* TIPA (LaTex)
+
 ## Glossing Abbreviations
 
 Abbreviation | Meaning             | Description
