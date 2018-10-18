@@ -28,6 +28,7 @@ AUG          | augmentative        |
 BEN          | benefactive         | 'to, for, on behalf of'
 CAUS         | causative           | 'cause, make'
 CIS          | cislocative         | motion towards the deictic center (speaker)
+CON          | conative            | 'try', '[do] at'
 CONT         | continuative        | 'still'
 DEC          | decessive           | 'the late'
 DIM          | diminutive          |
