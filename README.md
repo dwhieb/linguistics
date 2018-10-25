@@ -23,7 +23,7 @@
 * CHILDES
 * DGS-Korpus Sign Language Corpora Survey
 * International Corpus of English
-* Live Journal Corpus
+* LiveJournal Corpus
 * London-Lund Corpus of Spoken English
 * Santa Barbara Corpus of Spoken American English
 * Switchboard Corpus
