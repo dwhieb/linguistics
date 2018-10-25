@@ -15,6 +15,11 @@
 * Times New Roman
 * TIPA (LaTex)
 
+## Corpora
+
+* CHILDES
+* Live Journal Corpus
+
 ## Glossing Abbreviations
 
 Abbreviation | Meaning             | Description
