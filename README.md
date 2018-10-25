@@ -17,8 +17,16 @@
 
 ## Corpora
 
+* Auslan
+* British National Corpus
+* Brown Corpus
 * CHILDES
+* DGS-Korpus Sign Language Corpora Survey
+* International Corpus of English
 * Live Journal Corpus
+* London-Lund Corpus of Spoken English
+* Santa Barbara Corpus of Spoken American English
+* Switchboard Corpus
 
 ## Glossing Abbreviations
 
