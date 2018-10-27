@@ -48,6 +48,7 @@ DIM          | diminutive          |
 DISTR        | distributive        |
 DP           | duo-plural          | 2+
 DU           | dual                | 2
+ESS          | essive              | existence in a state or time
 EX           | exclusive           |
 F            | feminine            |
 FACIL        | facilitative        | 'easily'
