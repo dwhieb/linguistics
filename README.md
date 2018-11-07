@@ -79,6 +79,7 @@ PART         | partitive           |
 PAST         | past                |
 PFV          | perfective          | completed action ("completive", "aorist")
 PL           | plural              |
+PLEO         | pleonastic          | "expletive"
 POSS         | possessive          |
 PROG         | progressive         | incomplete action or state in progress
 PUNC         | punctual            | instantaneous
