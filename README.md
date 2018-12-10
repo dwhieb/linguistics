@@ -17,14 +17,20 @@
 
 ## Corpora
 
+* [Ancient Texts (Harvard)](https://classics.fas.harvard.edu/ancient-texts)
 * Auslan
 * British National Corpus
 * Brown Corpus
 * CHILDES
+* [Corpus Scriptorum Latinorum](http://www.forumromanum.org/literature/index.html)
 * DGS-Korpus Sign Language Corpora Survey
 * International Corpus of English
+* [Latin Library](http://thelatinlibrary.com/)
 * LiveJournal Corpus
+* [Loeb Classical Library](https://www.loebclassics.com/)
 * London-Lund Corpus of Spoken English
+* [PHI Latin Texts](https://latin.packhum.org/browse)
+* [Old Latin](https://en.wikipedia.org/wiki/Old_Latin)
 * Santa Barbara Corpus of Spoken American English
 * Switchboard Corpus
 
