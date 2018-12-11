@@ -34,6 +34,10 @@
 * Santa Barbara Corpus of Spoken American English
 * Switchboard Corpus
 
+## Online Dictionaries
+
+* [Teotitlán del Valle Zapotec](http://talkingdictionary.swarthmore.edu/teotitlan/)
+
 ## Glossing Abbreviations
 
 Abbreviation | Meaning             | Description
