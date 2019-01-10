@@ -15,36 +15,36 @@
 * Times New Roman
 * TIPA (LaTex)
 
-## Corpora
+## Language Resources
+
+Language                 | Resource
+------------------------ | --------
+Australian Sign Language | Auslan
+English                  | British National Corpus
+English                  | Brown Corpus
+English (child)          | CHILDES
+English                  | International Corpus of English
+English                  | LiveJournal Corpus
+English                  | London-Lund Corpus of Spoken English
+English                  | Santa Barbara Corpus of Spoken American English
+English                  | Switchboard Corpus
+Latin                    | [Corpus Scriptorum Latinorum](http://www.forumromanum.org/literature/index.html)
+Latin                    | [Latin Library](http://thelatinlibrary.com/)
+Latin                    | [PHI Latin Texts](https://latin.packhum.org/browse)
+Latin (Old)              | [Old Latin](https://en.wikipedia.org/wiki/Old_Latin)
+Zapotec (Colonial)                    | [TICHA](https://ticha.haverford.edu/en/)
+Zapotec (Teotitlán del Valle Zapotec) | [Online Talking Dictionary](http://talkingdictionary.swarthmore.edu/teotitlan/)
+
+## Multi-Language Resources
 
 * [Ancient Texts (Harvard)](https://classics.fas.harvard.edu/ancient-texts)
-* Auslan
-* British National Corpus
-* Brown Corpus
-* CHILDES
-* [Corpus Scriptorum Latinorum](http://www.forumromanum.org/literature/index.html)
 * DGS-Korpus Sign Language Corpora Survey
-* International Corpus of English
-* [Latin Library](http://thelatinlibrary.com/)
-* LiveJournal Corpus
 * [Loeb Classical Library](https://www.loebclassics.com/)
-* London-Lund Corpus of Spoken English
-* [PHI Latin Texts](https://latin.packhum.org/browse)
-* [Old Latin](https://en.wikipedia.org/wiki/Old_Latin)
-* Santa Barbara Corpus of Spoken American English
-* Switchboard Corpus
-
-## Online Dictionaries
-
-* [Teotitlán del Valle Zapotec](http://talkingdictionary.swarthmore.edu/teotitlan/)
-
-## Single-Language, Multi-Resource
-* [Ticha (Colonial Zapotec)](https://ticha.haverford.edu/en/)
 
 ## Glossing Abbreviations
 
 Abbreviation | Meaning             | Description
------------- | ------------- | -----------
+------------ | ------------------- | -----------
 A            | agent               | grammatical agent
 A            | agent               | semantic agent (most agent-like argument in a clause)
 AL           | alienable           | alienable possession
