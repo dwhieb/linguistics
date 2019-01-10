@@ -17,6 +17,8 @@
 
 ## Language Resources
 
+**TODO:** Add a column for resource type(s)
+
 Language                 | Resource
 ------------------------ | --------
 Australian Sign Language | Auslan
