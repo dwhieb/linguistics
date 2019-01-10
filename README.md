@@ -38,6 +38,9 @@
 
 * [Teotitlán del Valle Zapotec](http://talkingdictionary.swarthmore.edu/teotitlan/)
 
+## Single-Language, Multi-Resource
+* [Ticha (Colonial Zapotec)](https://ticha.haverford.edu/en/)
+
 ## Glossing Abbreviations
 
 Abbreviation | Meaning             | Description
