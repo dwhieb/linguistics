@@ -36,17 +36,20 @@ English (British)                     | texts             | [British National Co
 English (British)                     | texts             | [Google Books](http://googlebooks.byu.edu/)
 English (British)                     | texts             | [London-Lund Corpus of Spoken English](http://www.helsinki.fi/varieng/CoRD/corpora/LLC/)
 English (British)                     | texts             | [Spoken British National Corpus](https://linguistlist.org/issues/29/29-4591.html)
+Iñupiaq                               | dictionary        | [Interactive Iñupiaq Dictionary](http://www.alaskool.org/language/dictionaries/inupiaq/dictionary.htm)
 Latin                                 | texts             | [Corpus Scriptorum Latinorum](http://www.forumromanum.org/literature/index.html)
 Latin                                 | texts             | [Latin Library](http://thelatinlibrary.com/)
 Latin                                 | texts             | [PHI Latin Texts](https://latin.packhum.org/browse)
 Latin (Old)                           | texts             | [Old Latin](https://en.wikipedia.org/wiki/Old_Latin)
 Spanish                               | texts             | [Google Books](http://googlebooks.byu.edu/)
 Tlingit                               | texts             | [Tlingit Conversation Documentation Project](http://www.uas.alaska.edu/arts_sciences/humanities/alaska-languages/cuped/video-conv/)
+Tlingit                               | dictionary        | [English-Tlingit Dictionary](http://www.alaskool.org/language/dictionaries/akn/tlingit/information/Index_TND.html)
 Zapotec (Colonial)                    | dictionary, texts | [TICHA](https://ticha.haverford.edu/en/)
 Zapotec (Teotitlán del Valle Zapotec) | dictionary        | [Online Talking Dictionary](http://talkingdictionary.swarthmore.edu/teotitlan/)
 
 ## Multi-Language Resources
 
+* [Alaska Native Languages Center](https://www.uaf.edu/anlc/languages/)
 * [Ancient Texts (Harvard)](https://classics.fas.harvard.edu/ancient-texts)
 * [BYU Corpora](https://corpus.byu.edu/corpora.asp)
 * [DGS-Korpus Sign Language Corpora Survey](http://www.sign-lang.uni-hamburg.de/dgs-korpus/index.php/sl-corpora.html)
