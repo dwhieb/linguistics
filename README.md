@@ -35,6 +35,7 @@ English (diachronic)                  | texts             | [Helsinki Corpus of 
 English (British)                     | texts             | [British National Corpus](http://www.natcorp.ox.ac.uk/)
 English (British)                     | texts             | [Google Books](http://googlebooks.byu.edu/)
 English (British)                     | texts             | [London-Lund Corpus of Spoken English](http://www.helsinki.fi/varieng/CoRD/corpora/LLC/)
+English (British)                     | texts             | [Spoken British National Corpus](https://linguistlist.org/issues/29/29-4591.html)
 Latin                                 | texts             | [Corpus Scriptorum Latinorum](http://www.forumromanum.org/literature/index.html)
 Latin                                 | texts             | [Latin Library](http://thelatinlibrary.com/)
 Latin                                 | texts             | [PHI Latin Texts](https://latin.packhum.org/browse)
