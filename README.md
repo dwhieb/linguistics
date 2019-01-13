@@ -41,6 +41,7 @@ Latin                                 | texts             | [Latin Library](http
 Latin                                 | texts             | [PHI Latin Texts](https://latin.packhum.org/browse)
 Latin (Old)                           | texts             | [Old Latin](https://en.wikipedia.org/wiki/Old_Latin)
 Spanish                               | texts             | [Google Books](http://googlebooks.byu.edu/)
+Tlingit                               | texts             | [Tlingit Conversation Documentation Project](http://www.uas.alaska.edu/arts_sciences/humanities/alaska-languages/cuped/video-conv/)
 Zapotec (Colonial)                    | dictionary, texts | [TICHA](https://ticha.haverford.edu/en/)
 Zapotec (Teotitlán del Valle Zapotec) | dictionary        | [Online Talking Dictionary](http://talkingdictionary.swarthmore.edu/teotitlan/)
 
