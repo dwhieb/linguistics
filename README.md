@@ -33,6 +33,7 @@ English (any)                         | dictionary        | [OED](https://corpus
 English (child)                       | texts             | [CHILDES](https://childes.talkbank.org/)
 English (diachronic)                  | texts             | [Helsinki Corpus of English Texts](http://www.helsinki.fi/varieng/CoRD/corpora/HelsinkiCorpus/)
 English (British)                     | texts             | [British National Corpus](http://www.natcorp.ox.ac.uk/)
+English (British)                     | texts             | [Corpus of Late Modern English](http://www.helsinki.fi/varieng/CoRD/corpora/CLMETEV/)
 English (British)                     | texts             | [Google Books](http://googlebooks.byu.edu/)
 English (British)                     | texts             | [London-Lund Corpus of Spoken English](http://www.helsinki.fi/varieng/CoRD/corpora/LLC/)
 English (British)                     | texts             | [Spoken British National Corpus](https://linguistlist.org/issues/29/29-4591.html)
