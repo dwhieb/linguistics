@@ -56,6 +56,7 @@ Zapotec (Teotitlán del Valle Zapotec) | dictionary        | [Online Talking Dic
 * [Ancient Texts (Harvard)](https://classics.fas.harvard.edu/ancient-texts)
 * [BYU Corpora](https://corpus.byu.edu/corpora.asp)
 * [DGS-Korpus Sign Language Corpora Survey](http://www.sign-lang.uni-hamburg.de/dgs-korpus/index.php/sl-corpora.html)
+* [History of English Corpora](https://sites.google.com/site/helontheweb/corpora)
 * [Martin Weisser's List of Corpora](http://martinweisser.org/corpora_site/CBLLinks.html)
 * [Linguistic Data Consortium](https://www.ldc.upenn.edu/)
 * [Loeb Classical Library](https://www.loebclassics.com/)
