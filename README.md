@@ -58,6 +58,7 @@ Zapotec (Teotitlán del Valle Zapotec) | dictionary        | [Online Talking Dic
 * [Martin Weisser's List of Corpora](http://martinweisser.org/corpora_site/CBLLinks.html)
 * [Linguistic Data Consortium](https://www.ldc.upenn.edu/)
 * [Loeb Classical Library](https://www.loebclassics.com/)
+* [Penn Parsed Corpora of Historical English](https://www.ling.upenn.edu/ppche/ppche-release-2016/)
 * [TalkBank](https://talkbank.org/)
 
 ## Glossing Abbreviations
