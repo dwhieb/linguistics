@@ -36,6 +36,8 @@ English (British)                     | texts             | [British National Co
 English (British)                     | texts             | [Google Books](http://googlebooks.byu.edu/)
 English (British)                     | texts             | [London-Lund Corpus of Spoken English](http://www.helsinki.fi/varieng/CoRD/corpora/LLC/)
 English (British)                     | texts             | [Spoken British National Corpus](https://linguistlist.org/issues/29/29-4591.html)
+English (Middle)                      | texts             | [Penn-Helsinki Parsed Corpus of Middle English](https://www.ling.upenn.edu/mideng/)
+English (Old)                         | texts             | [York-Toronto-Helsinki Parsed Corpus of Old English Prose](http://www-users.york.ac.uk/~lang22/YCOE/YcoeHome.htm)
 Iñupiaq                               | dictionary        | [Interactive Iñupiaq Dictionary](http://www.alaskool.org/language/dictionaries/inupiaq/dictionary.htm)
 Latin                                 | texts             | [Corpus Scriptorum Latinorum](http://www.forumromanum.org/literature/index.html)
 Latin                                 | texts             | [Latin Library](http://thelatinlibrary.com/)
