@@ -20,7 +20,6 @@
 Language                              | Type              | Resource
 ------------------------------------- | ----------------- | --------
 Australian Sign Language              | dictionary, texts | [Auslan](http://www.auslan.org.au/)
-Dutch                                 | texts             | Compilation Corpus of Historical Dutch
 English (American)                    | texts             | [Brown Corpus](http://www.helsinki.fi/varieng/CoRD/corpora/BROWN/)
 English (American)                    | texts             | [COCA](https://corpus.byu.edu/coca/)
 English (American)                    | texts             | [Diachronic Corpus of Present-Day English](http://www.helsinki.fi/varieng/CoRD/corpora/DCPSE/index.html)
@@ -62,6 +61,7 @@ Zapotec (Teotitlán del Valle Zapotec) | dictionary        | [Online Talking Dic
 * [Loeb Classical Library](https://www.loebclassics.com/)
 * [Penn Parsed Corpora of Historical English](https://www.ling.upenn.edu/ppche/ppche-release-2016/)
 * [TalkBank](https://talkbank.org/)
+* [University of Gothenburg](https://sprak.gu.se/english/research/research-activities/corpus-linguistics/corpora-at-the-dll)
 
 ## Glossing Abbreviations
 
