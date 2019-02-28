@@ -15,6 +15,9 @@
 * Times New Roman
 * TIPA (LaTex)
 
+## Software
+* [ProsodyPro](http://www.homepages.ucl.ac.uk/~uclyyix/ProsodyPro/)
+
 ## Language Resources
 
 Language                              | Type              | Resource
