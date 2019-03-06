@@ -19,6 +19,7 @@
 * [CLDF](https://cldf.clld.org/)
 * [EOPAS](https://github.com/eopas/eopas)
 * [EXMARaLDA](https://exmaralda.org/en/about-exmaralda/)
+* [PhonoApp](http://www.phonoapps.com/)
 * [ProsodyPro](http://www.homepages.ucl.ac.uk/~uclyyix/ProsodyPro/)
 * [TypeCraft](https://typecraft.org) ([alternate link](https://tc.polytext.io/tc2wiki/Main_Page))
 
