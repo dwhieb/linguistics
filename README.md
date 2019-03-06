@@ -150,3 +150,4 @@ Z            | zoic                | animals
 
 ## Teaching Resources
 * [Martin Weisser's website](http://martinweisser.org/)
+* [Sounds of the World's Languages](https://enunciate.arts.ubc.ca/linguistics/world-sounds/)
