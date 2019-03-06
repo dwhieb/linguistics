@@ -16,6 +16,7 @@
 * TIPA (LaTex)
 
 ## Software
+* [EXMARaLDA](https://exmaralda.org/en/about-exmaralda/)
 * [ProsodyPro](http://www.homepages.ucl.ac.uk/~uclyyix/ProsodyPro/)
 
 ## Language Resources
@@ -69,6 +70,7 @@ Zapotec (Teotitlán del Valle Zapotec) | dictionary        | [Online Talking Dic
 * [Endangered Languages & Cultures of Siberia](http://www.siberianlanguages.surrey.ac.uk/summary/)
 * [ELAR](https://elar.soas.ac.uk/)
 * [History of English Corpora](https://sites.google.com/site/helontheweb/corpora)
+* [INEL Corpora](https://inel.corpora.uni-hamburg.de/?page_id=923)
 * [Martin Weisser's List of Corpora](http://martinweisser.org/corpora_site/CBLLinks.html)
 * [Linguistic Data Consortium](https://www.ldc.upenn.edu/)
 * [Living Tongues Institute](https://livingtongues.org/projects/)
