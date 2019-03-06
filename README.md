@@ -55,6 +55,7 @@ Maa                                   | dictionary, texts | [Maa Maasai Language
 Manang languages                      | texts             | [Manang Languages Project](https://mananglanguages.isg.siue.edu/)
 Mawng                                 | dictionary        | [Mawng Ngaralk Website](http://www.mawngngaralk.org.au/main/index.php)
 Spanish                               | texts             | [Google Books](http://googlebooks.byu.edu/)
+Swahili                               | dictionary        | [NooJ Kiswahili](http://www.nooj-association.org/index.php?option=com_k2&view=item&id=120:kiswahili-resource&Itemid=611)
 Tlingit                               | texts             | [Tlingit Conversation Documentation Project](http://www.uas.alaska.edu/arts_sciences/humanities/alaska-languages/cuped/video-conv/)
 Tlingit                               | dictionary        | [English-Tlingit Dictionary](http://www.alaskool.org/language/dictionaries/akn/tlingit/information/Index_TND.html)
 Washo                                 | dictionary        | [Washo Documentation Project](https://lucian.uchicago.edu/blogs/washo/)
