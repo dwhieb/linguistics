@@ -16,6 +16,7 @@
 * TIPA (LaTex)
 
 ## Software
+* [CLDF](https://cldf.clld.org/)
 * [EOPAS](https://github.com/eopas/eopas)
 * [EXMARaLDA](https://exmaralda.org/en/about-exmaralda/)
 * [ProsodyPro](http://www.homepages.ucl.ac.uk/~uclyyix/ProsodyPro/)
