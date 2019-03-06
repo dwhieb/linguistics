@@ -46,6 +46,7 @@ Latin                                 | texts             | [Corpus Scriptorum L
 Latin                                 | texts             | [Latin Library](http://thelatinlibrary.com/)
 Latin                                 | texts             | [PHI Latin Texts](https://latin.packhum.org/browse)
 Latin (Old)                           | texts             | [Old Latin](https://en.wikipedia.org/wiki/Old_Latin)
+Manang languages                      | texts             | [Manang Languages Project](https://mananglanguages.isg.siue.edu/)
 Spanish                               | texts             | [Google Books](http://googlebooks.byu.edu/)
 Tlingit                               | texts             | [Tlingit Conversation Documentation Project](http://www.uas.alaska.edu/arts_sciences/humanities/alaska-languages/cuped/video-conv/)
 Tlingit                               | dictionary        | [English-Tlingit Dictionary](http://www.alaskool.org/language/dictionaries/akn/tlingit/information/Index_TND.html)
