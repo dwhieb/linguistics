@@ -53,6 +53,7 @@ English (British)                     | texts             | [London-Lund Corpus 
 English (British)                     | texts             | [Spoken British National Corpus](https://linguistlist.org/issues/29/29-4591.html)
 English (Middle)                      | texts             | [Penn-Helsinki Parsed Corpus of Middle English](https://www.ling.upenn.edu/mideng/)
 English (Old)                         | texts             | [York-Toronto-Helsinki Parsed Corpus of Old English Prose](http://www-users.york.ac.uk/~lang22/YCOE/YcoeHome.htm)
+Great Anadamanese                     | dictionary        | [Great Andamanese Dictionary](http://www.andamanese.net/GA-lexicon/lexicon/index.htm)
 Iñupiaq                               | dictionary        | [Interactive Iñupiaq Dictionary](http://www.alaskool.org/language/dictionaries/inupiaq/dictionary.htm)
 Latin                                 | texts             | [Corpus Scriptorum Latinorum](http://www.forumromanum.org/literature/index.html)
 Latin                                 | texts             | [Latin Library](http://thelatinlibrary.com/)
