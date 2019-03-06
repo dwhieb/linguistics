@@ -18,6 +18,7 @@
 ## Software
 * [EXMARaLDA](https://exmaralda.org/en/about-exmaralda/)
 * [ProsodyPro](http://www.homepages.ucl.ac.uk/~uclyyix/ProsodyPro/)
+* [TypeCraft](https://typecraft.org) ([alternate link](https://tc.polytext.io/tc2wiki/Main_Page))
 
 ## Language Resources
 
