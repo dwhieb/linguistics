@@ -21,6 +21,10 @@
 * [ProsodyPro](http://www.homepages.ucl.ac.uk/~uclyyix/ProsodyPro/)
 * [TypeCraft](https://typecraft.org) ([alternate link](https://tc.polytext.io/tc2wiki/Main_Page))
 
+## Reference
+* [Austin Data Citation Principles](http://site.uit.no/linguisticsdatacitation/)
+* [Sounds of the World's Languages](https://enunciate.arts.ubc.ca/linguistics/world-sounds/)
+
 ## Language Resources
 
 Language                              | Type              | Resource
@@ -158,4 +162,3 @@ Z            | zoic                | animals
 
 ## Teaching Resources
 * [Martin Weisser's website](http://martinweisser.org/)
-* [Sounds of the World's Languages](https://enunciate.arts.ubc.ca/linguistics/world-sounds/)
