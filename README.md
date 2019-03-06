@@ -16,6 +16,7 @@
 * TIPA (LaTex)
 
 ## Software
+* [EOPAS](https://github.com/eopas/eopas)
 * [EXMARaLDA](https://exmaralda.org/en/about-exmaralda/)
 * [ProsodyPro](http://www.homepages.ucl.ac.uk/~uclyyix/ProsodyPro/)
 * [TypeCraft](https://typecraft.org) ([alternate link](https://tc.polytext.io/tc2wiki/Main_Page))
@@ -24,6 +25,7 @@
 
 Language                              | Type              | Resource
 ------------------------------------- | ----------------- | --------
+Arapesh                               | dictionary, grammar, texts | [Arapesh Grammar and Digital Language Archive](http://www.arapesh.org/)
 Australian Sign Language              | dictionary, texts | [Auslan](http://www.auslan.org.au/)
 Coeur d'Alene                         | dictionary, grammar, texts | [Coeur d'Alene Online Language Resource Center](http://lasrv01.ipfw.edu/COLRC/reichard.php)
 East Cree                             | dictionary, grammar, texts | [East Cree Language Resources](https://www.eastcree.org/cree/)
@@ -82,6 +84,11 @@ Zapotec (Teotitlán del Valle Zapotec) | dictionary        | [Online Talking Dic
 * [RNLD Language Documentation Projects](http://www.rnld.org/documentation_projects)
 * [TalkBank](https://talkbank.org/)
 * [University of Gothenburg](https://sprak.gu.se/english/research/research-activities/corpus-linguistics/corpora-at-the-dll)
+
+## Typological Databases
+* [APICS](https://apics-online.info/)
+* [CLLD](https://clld.org/datasets.html)
+* [WALS](https://wals.info/)
 
 ## Glossing Abbreviations
 
