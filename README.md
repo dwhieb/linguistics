@@ -16,6 +16,7 @@
 * TIPA (LaTex)
 
 ## Software
+
 * [CLDF](https://cldf.clld.org/)
 * [EOPAS](https://github.com/eopas/eopas)
 * [EXMARaLDA](https://exmaralda.org/en/about-exmaralda/)
@@ -25,6 +26,7 @@
 * [TypeCraft](https://typecraft.org) ([alternate link](https://tc.polytext.io/tc2wiki/Main_Page))
 
 ## Reference
+
 * [Austin Data Citation Principles](http://site.uit.no/linguisticsdatacitation/)
 * [Sounds of the World's Languages](https://enunciate.arts.ubc.ca/linguistics/world-sounds/)
 
@@ -95,6 +97,7 @@ Zapotec (Teotitlán del Valle Zapotec) | dictionary        | [Online Talking Dic
 * [University of Gothenburg](https://sprak.gu.se/english/research/research-activities/corpus-linguistics/corpora-at-the-dll)
 
 ## Typological Databases
+
 * [APICS](https://apics-online.info/)
 * [CLLD](https://clld.org/datasets.html)
 * [WALS](https://wals.info/)
@@ -166,6 +169,7 @@ TLOC         | translocative       | motion away from the deictic center (speake
 Z            | zoic                | animals
 
 ## Teaching Resources
+
 * [Martin Weisser's website](http://martinweisser.org/)
 * [Teach with Wikipedia](https://wikiedu.org/teach-with-wikipedia/)
 * [Wiki Education](https://wikiedu.org/for-instructors/)
