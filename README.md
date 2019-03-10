@@ -21,6 +21,7 @@
 * [EXMARaLDA](https://exmaralda.org/en/about-exmaralda/)
 * [PhonoApp](http://www.phonoapps.com/)
 * [ProsodyPro](http://www.homepages.ucl.ac.uk/~uclyyix/ProsodyPro/)
+* [TalkBank](https://talkbank.org/)
 * [TypeCraft](https://typecraft.org) ([alternate link](https://tc.polytext.io/tc2wiki/Main_Page))
 
 ## Reference
