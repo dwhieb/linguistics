@@ -95,6 +95,7 @@ Zapotec (Teotitlán del Valle Zapotec) | dictionary        | [Online Talking Dic
 * [RNLD Language Documentation Projects](http://www.rnld.org/documentation_projects)
 * [TalkBank](https://talkbank.org/)
 * [University of Gothenburg](https://sprak.gu.se/english/research/research-activities/corpus-linguistics/corpora-at-the-dll)
+* [WEILD](http://wieldoc.org/)
 
 ## Typological Databases
 
