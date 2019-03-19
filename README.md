@@ -95,6 +95,7 @@ Zapotec (Teotitlán del Valle Zapotec) | dictionary        | [Online Talking Dic
 * [Living Tongues Institute](https://livingtongues.org/projects/)
 * [Loeb Classical Library](https://www.loebclassics.com/)
 * [Penn Parsed Corpora of Historical English](https://www.ling.upenn.edu/ppche/ppche-release-2016/)
+* [RefLex](https://sites.google.com/site/referencelexicon/)
 * [RNLD Language Documentation Projects](http://www.rnld.org/documentation_projects)
 * [TalkBank](https://talkbank.org/)
 * [University of Gothenburg](https://sprak.gu.se/english/research/research-activities/corpus-linguistics/corpora-at-the-dll)
