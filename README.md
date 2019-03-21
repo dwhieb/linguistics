@@ -84,6 +84,7 @@ Zapotec (Teotitlán del Valle Zapotec) | dictionary        | [Online Talking Dic
 * [Ancient Texts (Harvard)](https://classics.fas.harvard.edu/ancient-texts)
 * [BYU Corpora](https://corpus.byu.edu/corpora.asp)
 * [Max Planck Corpus Tools](https://tla.mpi.nl/tools2/tooltype/corpus/)
+* [Dictionaria](http://home.uni-leipzig.de/dictionaryjournal/about-the-journal/)
 * [DGS-Korpus Sign Language Corpora Survey](http://www.sign-lang.uni-hamburg.de/dgs-korpus/index.php/sl-corpora.html)
 * [Endangered Languages & Cultures of Siberia](http://www.siberianlanguages.surrey.ac.uk/summary/)
 * [ELAR](https://elar.soas.ac.uk/)
