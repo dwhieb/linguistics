@@ -8,7 +8,7 @@
 * African Serif
 * Andika
 * Charis SIL
-* DejaVun Sans Mono
+* DejaVu Sans Mono
 * Doulos SIL
 * Gentium Plus
 * Lucida Sans Unicode
