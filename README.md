@@ -72,6 +72,7 @@ Manang languages                      | texts             | [Manang Languages Pr
 Mawng                                 | dictionary        | [Mawng Ngaralk Website](http://www.mawngngaralk.org.au/main/index.php)
 Moro                                  | texts             | [Moro Story Corpus](http://linguistics.berkeley.edu/moro/#/)
 Mixtec                                | texts             | [Kathryn Josserand Mixtec Language Surveys](https://fromthepage.lib.utexas.edu/sullivant/the-kathryn-josserand-mixtec-language-surveys?sfns=mo)
+Nahuatl                               | dictionary        | [Condip](http://condip.dk/condip.php)
 Spanish                               | texts             | [Google Books](http://googlebooks.byu.edu/)
 Swahili                               | dictionary        | [NooJ Kiswahili](http://www.nooj-association.org/index.php?option=com_k2&view=item&id=120:kiswahili-resource&Itemid=611)
 Tlingit                               | texts             | [Tlingit Conversation Documentation Project](http://www.uas.alaska.edu/arts_sciences/humanities/alaska-languages/cuped/video-conv/)
