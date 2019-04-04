@@ -1,19 +1,6 @@
 # Resources for Linguistics
 
-## Fonts
-
-* Aboriginal Sans
-* Aboriginal Serif
-* African Sans
-* African Serif
-* Andika
-* Charis SIL
-* DejaVu Sans Mono
-* Doulos SIL
-* Gentium Plus
-* Lucida Sans Unicode
-* Times New Roman
-* TIPA (LaTex)
+* [fonts](./fonts.md)
 
 ## Software
 
@@ -96,6 +83,7 @@ Zapotec (Teotitlán del Valle Zapotec) | dictionary        | [Online Talking Dic
 * [INEL Corpora](https://inel.corpora.uni-hamburg.de/?page_id=923)
 * [Martin Weisser's List of Corpora](http://martinweisser.org/corpora_site/CBLLinks.html)
 * [PARADISEC](http://catalog.paradisec.org.au/)
+* [Lexicity](http://lexicity.com/)
 * [Linguistic Data Consortium](https://www.ldc.upenn.edu/)
 * [Living Tongues Institute](https://livingtongues.org/projects/)
 * [Loeb Classical Library](https://www.loebclassics.com/)
