@@ -28,6 +28,7 @@ English (Old)                         | texts                      | [York-Toron
 Great Anadamanese                     | dictionary                 | [Great Andamanese Dictionary](http://www.andamanese.net/GA-lexicon/lexicon/index.htm)
 Iñupiaq                               | dictionary                 | [Interactive Iñupiaq Dictionary](http://www.alaskool.org/language/dictionaries/inupiaq/dictionary.htm)
 Latin                                 | texts                      | [Bibliotheca Augustana](http://www.hs-augsburg.de/~harsch/a_chron.html)
+Latin                                 | texts                      | [Corpus Inscriptionum Latinarum](https://arachne.uni-koeln.de/drupal/?q=en/node/291)
 Latin                                 | texts                      | [Corpus Scriptorum Latinorum](http://www.forumromanum.org/literature/index.html)
 Latin                                 | texts                      | [Itinera Electronica](http://agoraclass.fltr.ucl.ac.be/concordances/intro.htm)
 Latin                                 | texts                      | [Latin Library](http://thelatinlibrary.com/)
