@@ -1,0 +1,64 @@
+Add these languages to your Languages list.
+
+# Languages to Add
+- English
+  - https://linguistlist.org/issues/29/29-2151.html
+- Chitimacha
+- Kisii
+- Iñupiaq
+- Luhya
+- Turkish
+- Swahili (notes, UCLA data, Kamusi)
+- Zapotec (Juchitán/Isthmus) - Chris Brendel
+- Mixtec (Tlahuapeño) - UCSB Field Methods Class
+- Chatino (Zenzontepec) - Eric Campbell
+- Abawiri - Brendon Yoder
+- Enggano - Brendon Yoder
+- Classical Nahuatl
+  - A grammar of Classical Nahuatl (Andrews)
+  - Analytical dictionary (Karttunen)
+- Bitur - Phill Rogers
+- Mayan (Kʼicheeʼ) - Phill Rogers
+- Spanish (Nicaraguan) - Jessi Love-Nichols
+- Qiang - Nate Sims
+- Welsh (Patagonian) - Morgan Sleeper
+- Navajo - Kayla Palakurthy
+- Newar (Dolakha) - Carol Genetti
+- Waorani - Alexia Fawcett
+- ??? - Yi-Yang Cheng
+- Wendat - Megan Lukaniec
+- Abkhaz - Caroline Crouch
+- Koryak - Dibella Caminsky
+- Chini - Joseph Brooks
+- Hua - Joseph Brooks
+- Japanese - Julia Fine, Karen Tsai, Pat Clancy
+- Seneca - Wally Chafe
+- Caddo - Wally Chafe
+- Central Pomo - Marianne Mithun
+- Mohawk - Marianne Mithun
+- Tuscarora - Marianne Mithun
+- Cayuga - Marianne Mithun
+- English (Santa Barbara Corpus) - Jack DuBois
+- Akabea - Bernard Comrie
+- Bezhta - Bernard Comrie
+- Haruai - Bernard Comrie
+- Tsez - Bernard Comrie
+- English - Stefan Gries
+- English (sociocultural tagging) - Jessi Love-Nichols, Mary Bucholtz, Anna Bax, Lal Zimman
+- Maya (Sacapultec) - Jack DuBois
+- Besemeh - Brad McDonnell
+- Creek - Jack Martin
+- Miccosukee - Jack Martin
+- Koasati - Jack Martin
+- Choctaw - Aaron Broadwell
+- Trique - Aaron Broadwell
+- Timucua - Aaron Broadwell
+- Hiligaynon - UCSB Field Methods Class (Marianne Mithun, Megan Lukaniec, Pat Hall)
+- Shona - UCSB Field Methods Class (Joseph Brooks, Brad McDonnell, Carol Genetti)
+- Chumash (Obispeño) - w/Marianne Mithun
+- Chalcatongo Mixtec - Monica Macaulay
+- Latin
+- Old English
+- Corpora from Linguistic Data Consortium
+- [Mokilese](https://scholarspace.manoa.hawaii.edu/handle/10125/43658)
+- [CORAAL](https://oraal.uoregon.edu/coraal)
