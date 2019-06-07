@@ -3,6 +3,7 @@
 * [CLDF](https://cldf.clld.org/)
 * [EOPAS](https://github.com/eopas/eopas)
 * [EXMARaLDA](https://exmaralda.org/en/about-exmaralda/)
+* [Language Geek](http://www.languagegeek.com/)
 * [Pathway](https://software.sil.org/pathway/)
 * [PhonoApp](http://www.phonoapps.com/)
 * [ProsodyPro](http://www.homepages.ucl.ac.uk/~uclyyix/ProsodyPro/)

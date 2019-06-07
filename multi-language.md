@@ -13,6 +13,7 @@
 * [INEL Corpora](https://inel.corpora.uni-hamburg.de/?page_id=923)
 * [IntraText](http://www.intratext.com/)
 * [Martin Weisser's List of Corpora](http://martinweisser.org/corpora_site/CBLLinks.html)
+* [Online Database of Interlinear Text (ODIN)](http://depts.washington.edu/uwcl/odin/)
 * [Palaeolexicon](https://www.palaeolexicon.com/)
 * [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/)
 * [Lexicity](http://lexicity.com/)
