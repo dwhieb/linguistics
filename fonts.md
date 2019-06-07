@@ -10,5 +10,7 @@
 * Doulos SIL
 * Gentium Plus
 * Lucida Sans Unicode
+* Noto Sans
+* Source Sans
 * Times New Roman
 * TIPA (LaTex)
