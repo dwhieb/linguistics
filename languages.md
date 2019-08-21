@@ -25,6 +25,7 @@ English (British)                     | texts                      | [London-Lun
 English (British)                     | texts                      | [Spoken British National Corpus](https://linguistlist.org/issues/29/29-4591.html)
 English (Middle)                      | texts                      | [Penn-Helsinki Parsed Corpus of Middle English](https://www.ling.upenn.edu/mideng/)
 English (Old)                         | texts                      | [York-Toronto-Helsinki Parsed Corpus of Old English Prose](http://www-users.york.ac.uk/~lang22/YCOE/YcoeHome.htm)
+German                                | texts                      | [Database for Spoken German](https://dgd.ids-mannheim.de/)
 Great Anadamanese                     | dictionary                 | [Great Andamanese Dictionary](http://www.andamanese.net/GA-lexicon/lexicon/index.htm)
 Indonesian                            | texts                      | [CHILDES Indonesian](https://childes.talkbank.org/browser/index.php?url=EastAsian/Indonesian/Jakarta/)
 Iñupiaq                               | dictionary                 | [Interactive Iñupiaq Dictionary](http://www.alaskool.org/language/dictionaries/inupiaq/dictionary.htm)
