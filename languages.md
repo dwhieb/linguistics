@@ -30,6 +30,7 @@ Great Anadamanese                     | dictionary                 | [Great Anda
 Indonesian                            | texts                      | [CHILDES Indonesian](https://childes.talkbank.org/browser/index.php?url=EastAsian/Indonesian/Jakarta/)
 Iñupiaq                               | dictionary                 | [Interactive Iñupiaq Dictionary](http://www.alaskool.org/language/dictionaries/inupiaq/dictionary.htm)
 Japanese                              | texts                      | [CHILDES Japanese](https://childes.talkbank.org/access/Japanese/Miyata.html)
+Koasati                               | dictionary                 | [Koasati Dictionary](https://koasati.azurewebsites.net/)
 Latin                                 | texts                      | [Bibliotheca Augustana](http://www.hs-augsburg.de/~harsch/a_chron.html)
 Latin                                 | texts                      | [Corpus Inscriptionum Latinarum](https://arachne.uni-koeln.de/drupal/?q=en/node/291)
 Latin                                 | texts                      | [Corpus Scriptorum Latinorum](http://www.forumromanum.org/literature/index.html)
