@@ -15,6 +15,7 @@
 * [IntraText](http://www.intratext.com/)
 * [Language Bank of Finland](https://www.kielipankki.fi/language-bank/)
 * [Martin Weisser's List of Corpora](http://martinweisser.org/corpora_site/CBLLinks.html)
+* [Multi-Cast](https://multicast.aspra.uni-bamberg.de/)
 * [Online Database of Interlinear Text (ODIN)](http://depts.washington.edu/uwcl/odin/)
 * [Palaeolexicon](https://www.palaeolexicon.com/)
 * [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/)
