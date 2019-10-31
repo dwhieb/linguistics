@@ -1,6 +1,7 @@
 # Miscellaneous
 
 * [Austin Data Citation Principles](http://site.uit.no/linguisticsdatacitation/)
+* [Language Family Maps](https://humans-who-read-grammars.blogspot.com/2019/10/language-family-maps.html)
 * [Metathesis in Language 2.0](https://metathesisinlanguage.osu.edu/)
 * [Native American Ethnobotany](http://naeb.brit.org/)
 * [Native Land](https://native-land.ca/) (language maps)
