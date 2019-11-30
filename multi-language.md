@@ -2,6 +2,7 @@
 
 * [Alpheios Project](http://texts.alpheios.net/)
 * [Ancient Texts (Harvard)](https://classics.fas.harvard.edu/ancient-texts)
+* [Autronesian Basic Vocabulary Database](https://abvd.shh.mpg.de/austronesian/)
 * [BYU Corpora](https://corpus.byu.edu/corpora.asp)
 * [Max Planck Corpus Tools](https://tla.mpi.nl/tools2/tooltype/corpus/)
 * [Database of Algonquian Language Structures](http://alglang.net/)
