@@ -15,3 +15,7 @@ Within the typology programme of the Deutsche Forschungsgemeinschaft, 1996-2001,
 ## [World Atlas of Language Structures](https://wals.info/) (WALS)
 
 The World Atlas of Language Structures (WALS) is a large database of structural (phonological, grammatical, lexical) properties of languages gathered from descriptive materials (such as reference grammars) by a team of 55 authors.
+
+## [World Phonotactics Database](https://zenodo.org/record/815506#.XiH6kkuSnD5)
+
+The website for this database is no longer online. However, this Zenodo repository contains a JSON database of the underlying data.
