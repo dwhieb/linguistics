@@ -8,4 +8,6 @@ Publications in linguistics that are available online, and may not be indexed, o
 
 * [UBC Open Papers in Linguistics](https://lingpapers.sites.olt.ubc.ca/opl-volumes/)
 
+* [UBC Qualifying Papers](https://lingpapers.sites.olt.ubc.ca/ubc-qualifying-papers/)
+
 * [Workshop on Structure and Constituency in the Languages of the Americas](https://lingpapers.sites.olt.ubc.ca/wscla-volumes/)
