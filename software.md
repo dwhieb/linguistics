@@ -4,9 +4,13 @@
 
 * [CLDF](https://cldf.clld.org/)
 
+* [Elk](http://acornslinguistics.com/): Font and keyboard creator
+
 * [EOPAS](https://github.com/eopas/eopas)
 
 * [EXMARaLDA](https://exmaralda.org/en/about-exmaralda/)
+
+* [Hare](http://acornslinguistics.com/): Audio editing software
 
 * [Language Geek](http://www.languagegeek.com/)
 
