@@ -1,5 +1,7 @@
 # Software
 
+* [7000 Languages](https://www.7000.org/): Create courses in indigenous languages
+
 * [Acorns](http://cs.sou.edu/~harveyd/acorns/): Create language-learning lessons (Windows/Mac/Linux)
 
 * [CLDF](https://cldf.clld.org/)
