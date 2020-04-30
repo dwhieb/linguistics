@@ -14,6 +14,8 @@
 
 * [Hare](http://acornslinguistics.com/): Audio editing software
 
+* [lameta](https://blogs.soas.ac.uk/elar/2020/04/30/introducing-lameta/): Tool for preparing data for archiving
+
 * [Language Geek](http://www.languagegeek.com/)
 
 * [Pathway](https://software.sil.org/pathway/)
