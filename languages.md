@@ -49,6 +49,7 @@ Mawng                                 | dictionary                 | [Mawng Ngar
 Moro                                  | texts                      | [Moro Story Corpus](http://linguistics.berkeley.edu/moro/#/)
 Mixtec                                | texts                      | [Kathryn Josserand Mixtec Language Surveys](https://fromthepage.lib.utexas.edu/sullivant/the-kathryn-josserand-mixtec-language-surveys?sfns=mo)
 Nahuatl                               | dictionary                 | [Condip](http://condip.dk/condip.php)
+Ojibwe                                | dictionary                 | [Ojibwe People's Dictionary](https://ojibwe.lib.umn.edu/)
 Pali                                  | texts                      | [SuttaCentral](https://suttacentral.net/)
 Rawang                                | texts                      | [Rawang Texts](http://tibeto-burman.net/rda/texts/index.html)
 Saami                                 | texts                      | [Skolt Saami Documentation Corpus](http://metashare.csc.fi/repository/browse/skolt-saami-documentation-corpus-2016/3bb9c396987411e3b2eb005056be118efb344a7e95cc4628a7635540c213a0f4/)
