@@ -6,6 +6,7 @@
 * [BYU Corpora](https://corpus.byu.edu/corpora.asp)
 * [CLARIN Corpora](https://www.clarin.eu/portal)
 * [Comparative Bantu Online Dictionary](http://www.cbold.ish-lyon.cnrs.fr/)
+* [CorpAfroAs](https://corpafroas.huma-num.fr/Archives/corpus.php)
 * [Database of Algonquian Language Structures](http://alglang.net/)
 * [Database of Arabic Dialects](https://www.database-of-arabic-dialects.org/)
 * [Database of Prominent Internal Possessors](https://pips.surrey.ac.uk/)
