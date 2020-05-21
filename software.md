@@ -36,6 +36,10 @@
 
 * [Wolf](http://cs.sou.edu/~harveyd/wolf/): Dictionary software (Windows/Mac/Linux)
 
-## R Packages
+## LaTeX Packages
 
 * [vowel](https://ctan.org/pkg/vowel): Draw vowel charts 
+
+## R Packages
+
+* [phonR](https://cran.r-project.org/web/packages/phonR/index.html): Normalize and plot vowels
