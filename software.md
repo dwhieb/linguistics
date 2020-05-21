@@ -18,6 +18,8 @@
 
 * [Language Geek](http://www.languagegeek.com/)
 
+* [NORM](http://lingtools.uoregon.edu/norm/norm1.php): Vowel normalization
+
 * [Pathway](https://software.sil.org/pathway/)
 
 * [PhonoApp](http://www.phonoapps.com/)
@@ -33,3 +35,7 @@
 * [TypeCraft](https://typecraft.org) ([alternate link](https://tc.polytext.io/tc2wiki/Main_Page))
 
 * [Wolf](http://cs.sou.edu/~harveyd/wolf/): Dictionary software (Windows/Mac/Linux)
+
+## R Packages
+
+* [vowel](https://ctan.org/pkg/vowel): Draw vowel charts 
