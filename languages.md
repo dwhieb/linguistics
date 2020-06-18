@@ -59,6 +59,7 @@ Spanish                               | texts                      | [Google Boo
 Swahili                               | dictionary                 | [NooJ Kiswahili](http://www.nooj-association.org/index.php?option=com_k2&view=item&id=120:kiswahili-resource&Itemid=611)
 Tamil                                 | texts                      | [CHILDES Tamil](https://childes.talkbank.org/browser/index.php?url=Other/Tamil/)
 Tlingit                               | texts                      | [Tlingit Conversation Documentation Project](http://www.uas.alaska.edu/arts_sciences/humanities/alaska-languages/cuped/video-conv/)
+Tlingit                               | texts                      | [Tlingit Conversations](https://www.uas.alaska.edu/arts_sciences/humanities/alaska-languages/cuped/video-conv/)
 Tlingit                               | dictionary                 | [English-Tlingit Dictionary](http://www.alaskool.org/language/dictionaries/akn/tlingit/information/Index_TND.html)
 Washo                                 | dictionary                 | [Washo Documentation Project](https://lucian.uchicago.edu/blogs/washo/)
 Yurok                                 | dictionary, texts          | [Yurok Language Project](http://linguistics.berkeley.edu/~yurok/index.php)
