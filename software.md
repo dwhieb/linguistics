@@ -36,6 +36,14 @@
 
 * [Wolf](http://cs.sou.edu/~harveyd/wolf/): Dictionary software (Windows/Mac/Linux)
 
+## Converters
+
+* [Algonquian SRO <> syllabics](https://syllabics.atlas-ling.ca/)
+
+* [Cree SRO <> Cree syllabics](https://syllabics.app/)
+
+* [Cree SRO <> Cree syllabics](http://www.creedictionary.com/converter/maskwacis.php)
+
 ## LaTeX Packages
 
 * [vowel](https://ctan.org/pkg/vowel): Draw vowel charts 
