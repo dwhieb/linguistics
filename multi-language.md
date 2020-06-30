@@ -36,6 +36,7 @@
 * [RNLD Language Documentation Projects](http://www.rnld.org/documentation_projects)
 * [Sino-Tibetan Etymological Dictionary & Thesaurus](https://stedt.berkeley.edu/)
 * [TalkBank](https://talkbank.org/)
+* [The Tromsø Repository of Language and Linguistics](https://dataverse.no/dataverse/trolling) (TROLLing)
 * [Typology of Negation in Ob-Ugric & Samoyedic](https://www.univie.ac.at/negation/projekt/short-en.html)
 * [University of Gothenburg](https://sprak.gu.se/english/research/research-activities/corpus-linguistics/corpora-at-the-dll)
 * [WEILD](http://wieldoc.org/)
