@@ -9,6 +9,7 @@
 * DejaVu Sans Mono
 * Doulos SIL
 * Gentium Plus
+* Linux Libertine
 * Lucida Sans Unicode
 * Noto Sans
 * Source Sans
