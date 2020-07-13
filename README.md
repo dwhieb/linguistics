@@ -4,6 +4,7 @@
 * [fonts](./fonts.md)
 * [glosses](./glosses.md)
 * [language resources](./languages.md)
+* [mapping](./mapping.md)
 * [miscellaneous](./misc.md)
 * [multi-language resources](./multi-language.md)
 * [teaching resources](./teaching.md)
