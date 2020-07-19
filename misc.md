@@ -2,7 +2,6 @@
 
 * [Austin Data Citation Principles](http://site.uit.no/linguisticsdatacitation/)
 * [The Linguists](https://vimeo.com/ondemand/livingtongues) (documentary)
-* [LivingLanguages.org](https://www.livinglanguages.org.au/)
 * [Native American Ethnobotany](http://naeb.brit.org/)
 * [Sounds of the World's Languages](https://enunciate.arts.ubc.ca/linguistics/world-sounds/)
 
