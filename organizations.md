@@ -16,6 +16,10 @@
 
   The Language Archive is an integral part of the Max Planck Institute for Psycholinguistics in Nijmegen. It contains various types of materials, including: audio and video language corpus data from languages around the world; photographs, notes, experimental data, and other relevant information required to document and describe languages and how people use them; records of speech in everyday interactions in families and communities; naturalistic data from adult conversations from endangered and under-studied languages, and linguistic phenomena.
 
+* [**Linguist List**](https://linguistlist.org/)
+
+  The LINGUIST List is dedicated to providing information on language and language analysis, and to providing the discipline of linguistics with the infrastructure necessary to function in the digital world. LINGUIST is a free resource, run by linguistics students and faculty, and supported primarily by your donations.
+
 * [**Living Languages**](https://www.livinglanguages.org.au/) (formerly **Resource Network for Linguistic Diversity** [<abbr>RNLD</abbr>])
 
   Organization dedicated to supporting the sustainability of indigenous languages.
