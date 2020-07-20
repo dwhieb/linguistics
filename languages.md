@@ -1,5 +1,7 @@
 # Language Resources
 
+This page lists online resources for specific languages.
+
 Language                              | Type                       | Resource
 --------------------------------------|----------------------------|--------------------------------------------------------------------------------------
 Arapesh                               | dictionary, grammar, texts | [Arapesh Grammar and Digital Language Archive](http://www.arapesh.org/)
