@@ -1,12 +1,13 @@
 # Language Resources
 
 Language                              | Type                       | Resource
---------------------------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+--------------------------------------|----------------------------|--------------------------------------------------------------------------------------
 Arapesh                               | dictionary, grammar, texts | [Arapesh Grammar and Digital Language Archive](http://www.arapesh.org/)
 Australian Sign Language              | dictionary, texts          | [Auslan](http://www.auslan.org.au/)
 Coeur d'Alene                         | dictionary, grammar, texts | [Coeur d'Alene Online Language Resource Center](http://lasrv01.ipfw.edu/COLRC/reichard.php)
 Carrier (Lheidli)                     | dictionary                 | [Lheidli Carrier Dictionary](http://www.billposer.org/LheidliCarrierDictionary/)
 Carrier (Nak'albun)                   | dictionary                 | [Nak'albun Carrier Dictionary](http://www.billposer.org/NakalbunCarrierDictionary/)
+Choctaw                               | dictionary                 | [Cyrus Byington's Dictionary of the Choctaw Language Online](https://www.webonary.org/byington-choctaw/)
 Cree                                  | dictionary, grammar, texts | [Cree Literacy Network](https://creeliteracy.org/)
 Dolgan                                | texts                      | [INEL Dolgan Corpus](https://corpora.uni-hamburg.de/hzsk/de/islandora/object/spoken-corpus:dolgan-1.0)
 East Cree                             | dictionary, grammar, texts | [East Cree Language Resources](https://www.eastcree.org/cree/)
