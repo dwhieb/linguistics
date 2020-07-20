@@ -1,5 +1,6 @@
 # Resources for Linguistics
 
+* [bibliographies](./bibliographies.md)
 * [language families](./families.md)
 * [fieldwork](./fieldwork.md)
 * [fonts](./fonts.md)
