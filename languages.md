@@ -11,6 +11,7 @@ Carrier (Lheidli)                     | dictionary                 | [Lheidli Ca
 Carrier (Nak'albun)                   | dictionary                 | [Nak'albun Carrier Dictionary](http://www.billposer.org/NakalbunCarrierDictionary/)
 Choctaw                               | dictionary                 | [Cyrus Byington's Dictionary of the Choctaw Language Online](https://www.webonary.org/byington-choctaw/)
 Cree                                  | dictionary, grammar, texts | [Cree Literacy Network](https://creeliteracy.org/)
+Cree                                  | writing                    | [Cree Syllabics App](https://syllabics.app/)
 Dolgan                                | texts                      | [INEL Dolgan Corpus](https://corpora.uni-hamburg.de/hzsk/de/islandora/object/spoken-corpus:dolgan-1.0)
 East Cree                             | dictionary, grammar, texts | [East Cree Language Resources](https://www.eastcree.org/cree/)
 Eastern Khanty                        | texts                      | [Eastern Khanty Languages](http://www.policy.hu/filtchenko/Documenting%20Eastern%20Khanty/index.htm)

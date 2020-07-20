@@ -30,6 +30,7 @@
 * [RefLex (African languages)](https://sites.google.com/site/referencelexicon/)
 * [RNLD Language Documentation Projects](http://www.rnld.org/documentation_projects)
 * [SegBo: Database of borrowed sounds](https://github.com/segbo-db/segbo)
+* [Syllabics](http://www.syllabics.net/)
 * [TalkBank](https://talkbank.org/)
 * [The Tromsø Repository of Language and Linguistics](https://dataverse.no/dataverse/trolling) (TROLLing)
 * [University of Gothenburg](https://sprak.gu.se/english/research/research-activities/corpus-linguistics/corpora-at-the-dll)

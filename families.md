@@ -12,6 +12,8 @@ This page contains resources relevant to specific language families.
 
   The Database of Algonquian Language Structures is a project to provide basic information about the sounds and grammar of the Algonquian languages in an easily searchable format. The database is currently in development and we are only in the early stages of adding data.
 
+* [Cree Syllabics App](https://syllabics.app/)
+
 ## Arabic
 
 * [Database of Arabic Dialects](https://www.database-of-arabic-dialects.org/)

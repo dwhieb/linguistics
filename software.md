@@ -44,11 +44,11 @@
 
 * [Cree SRO <> Cree syllabics](http://www.creedictionary.com/converter/maskwacis.php)
 
-* [Plains Cree SRO <> Plains Cree syllabics](http://www.syllabics.net/convert/plainscree)
+* [Syllabics](http://www.syllabics.net/)
 
 ## LaTeX Packages
 
-* [vowel](https://ctan.org/pkg/vowel): Draw vowel charts 
+* [vowel](https://ctan.org/pkg/vowel): Draw vowel charts
 
 ## R Packages
 
