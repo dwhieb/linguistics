@@ -12,6 +12,10 @@ Datasets maintained by the CLLD project.
 
 The goal of this project is to provide a broad empirical basis for studying metathesis. This site has a browsable and searchable database of all reported cases of metathesis in the world's languages. Because many of these cases are controversial, we have chosen to be as inclusive as possible, and it is likely that some of the reported cases listed here are not true cases of metathesis. Our hope is that this project will facilitate future research on descriptions, explanations, theories, and typologies of metathesis.
 
+## [Typology of Negation in Ob-Ugric & Samoyedic](https://www.univie.ac.at/negation/projekt/short-en.html)
+
+  The goal of the project is to examine, describe and provide a typological classification of the linguistic realizations of negation in a number of seriously endangered Samoyedic (Nenets, Enets, Selkup, Nganasan and Kamass, the latter extinct since the late 1980s) and Ob-Ugric minority languages (Khanty and Mansi), spoken in Europe and Siberia. These languages exhibit untypical and not well-documented negation constructions. The negation constructions will be classified applying current theories of linguistic typology so that the results will serve as a basis for further cross-linguistic comparison.
+
 ## [Universals Archive](https://typo.uni-konstanz.de/archive/intro/)
 
 Within the typology programme of the Deutsche Forschungsgemeinschaft, 1996-2001, the remit of the project "Sprachbaupläne" was to collect and document linguistic universals that have been suggested in the relevant literature, in particular those of an implicational kind ("If a language has property [unit, category, rule, construction, pattern, ...] X, then it will also have Y"). The main result of this project is The Universals Archive, since 2002 maintained with the support of the Fachbereich Sprachwissenschaft of the Universität Konstanz.

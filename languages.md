@@ -3,7 +3,7 @@
 This page lists online resources for specific languages.
 
 Language                              | Type                       | Resource
---------------------------------------|----------------------------|--------------------------------------------------------------------------------------
+--------------------------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Arapesh                               | dictionary, grammar, texts | [Arapesh Grammar and Digital Language Archive](http://www.arapesh.org/)
 Australian Sign Language              | dictionary, texts          | [Auslan](http://www.auslan.org.au/)
 Coeur d'Alene                         | dictionary, grammar, texts | [Coeur d'Alene Online Language Resource Center](http://lasrv01.ipfw.edu/COLRC/reichard.php)
@@ -25,6 +25,7 @@ English (any)                         | texts                      | [Internatio
 English (any)                         | dictionary                 | [OED](https://corpus.byu.edu/oed/)
 English (child)                       | texts                      | [CHILDES](https://childes.talkbank.org/)
 English (diachronic)                  | texts                      | [Helsinki Corpus of English Texts](http://www.helsinki.fi/varieng/CoRD/corpora/HelsinkiCorpus/)
+English (diachronic)                  | texts                      | [Penn Parsed Corpora of Historical English](https://www.ling.upenn.edu/ppche/ppche-release-2016/)
 English (British)                     | texts                      | [British National Corpus](http://www.natcorp.ox.ac.uk/)
 English (British)                     | texts                      | [Corpus of Late Modern English](http://www.helsinki.fi/varieng/CoRD/corpora/CLMETEV/)
 English (British)                     | texts                      | [Google Books](http://googlebooks.byu.edu/)
