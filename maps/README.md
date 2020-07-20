@@ -6,6 +6,7 @@
 * [Arctic (languages & families)][./Arctic.jpg]
 * [Australia (languages)](./Australia-languages.png)
 * [Chumashan](./Chumashan.svg)
+* [Cree](./Cree.png)
 * [Inuit](./Inuit.png)
 * [Lower Mississippi](./Lower-Mississippi.jpg)
 * North America (languages at time of contact) ([color](./North-America-contact-BW.jpg)) ([black & white](./North-America-contact-BW.jpg))
