@@ -7,6 +7,7 @@
 * [glosses](./glosses.md)
 * [languages](./languages.md)
 * [mapping](./mapping.md)
+* [maps](./maps/README.md)
 * [miscellaneous](./misc.md)
 * [multi-language resources](./multi-language.md)
 * [organizations](./organizations.md)
