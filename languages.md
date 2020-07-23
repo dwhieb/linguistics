@@ -6,6 +6,7 @@ Language                              | Type                       | Resource
 --------------------------------------|----------------------------|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Arapesh                               | dictionary, grammar, texts | [Arapesh Grammar and Digital Language Archive](http://www.arapesh.org/)
 Australian Sign Language              | dictionary, texts          | [Auslan](http://www.auslan.org.au/)
+Blackfoot                             | texts                      | [Blackfoot Stories Archive](https://stories.blackfoot.atlas-ling.ca/#/stories)
 Coeur d'Alene                         | dictionary, grammar, texts | [Coeur d'Alene Online Language Resource Center](http://lasrv01.ipfw.edu/COLRC/reichard.php)
 Carrier (Lheidli)                     | dictionary                 | [Lheidli Carrier Dictionary](http://www.billposer.org/LheidliCarrierDictionary/)
 Carrier (Nak'albun)                   | dictionary                 | [Nak'albun Carrier Dictionary](http://www.billposer.org/NakalbunCarrierDictionary/)
