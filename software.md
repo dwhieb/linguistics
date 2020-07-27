@@ -18,6 +18,10 @@
 
 * [Language Geek](http://www.languagegeek.com/)
 
+* [LingView](https://github.com/BrownCLPS/LingView)
+
+  A web interface for viewing glossed ELAN and FLEx files, optionally with time-synced video and audio.
+
 * [NORM](http://lingtools.uoregon.edu/norm/norm1.php): Vowel normalization
 
 * [Pathway](https://software.sil.org/pathway/)
