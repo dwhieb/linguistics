@@ -38,8 +38,6 @@
 
 * [TypeCraft](https://typecraft.org) ([alternate link](https://tc.polytext.io/tc2wiki/Main_Page))
 
-* [Wolf](http://cs.sou.edu/~harveyd/wolf/): Dictionary software (Windows/Mac/Linux)
-
 ## Converters
 
 * [Algonquian SRO <> syllabics](https://syllabics.atlas-ling.ca/)
@@ -50,9 +48,25 @@
 
 * [Syllabics](http://www.syllabics.net/)
 
+## Corpus Management
+
+* [Toolbox](https://software.sil.org/toolbox/)
+
+  Toolbox is a data management and analysis tool for field linguists. It is especially useful for maintaining lexical data, and for parsing and interlinearizing text, but it can be used to manage virtually any kind of data. Toolbox is free to download and use.
+
 ## LaTeX Packages
 
 * [vowel](https://ctan.org/pkg/vowel): Draw vowel charts
+
+## Lexicography
+
+* [Toolbox](https://software.sil.org/toolbox/)
+
+  Toolbox is a data management and analysis tool for field linguists. It is especially useful for maintaining lexical data, and for parsing and interlinearizing text, but it can be used to manage virtually any kind of data. Toolbox is free to download and use.
+
+* [Wolf](http://cs.sou.edu/~harveyd/wolf/)
+
+  The motivation for WOLF ([W]ord [O]riented [L]inguistic [F]ramework) is to provide an easy to use framework where linguists can create indigenous dictionaries with a user friendly interface. The software supports, among other things, dictionaries containing up to 100 languages, searching and sorting, import and export facilities, generation of web-pages, integration with the ACORNS mobile apps, multimedia, IPA phonetics. The interface has an EXCEL feel, but geared for use by linguists.
 
 ## R Packages
 
