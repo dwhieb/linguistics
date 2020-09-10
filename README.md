@@ -1,6 +1,6 @@
 # Resources for Linguistics
 
-* [archives](./archives.md)
+* [archives & archiving](./archiving.md)
 * [bibliographies](./bibliographies.md)
 * [fieldwork](./fieldwork.md)
 * [fonts](./fonts.md)
