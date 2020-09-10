@@ -68,6 +68,22 @@
 
   The motivation for WOLF ([W]ord [O]riented [L]inguistic [F]ramework) is to provide an easy to use framework where linguists can create indigenous dictionaries with a user friendly interface. The software supports, among other things, dictionaries containing up to 100 languages, searching and sorting, import and export facilities, generation of web-pages, integration with the ACORNS mobile apps, multimedia, IPA phonetics. The interface has an EXCEL feel, but geared for use by linguists.
 
+## Python Packages
+
+* [lingcorpora](https://lingcorpora.github.io/lingcorpora.py/html/index.html)
+
+  This package includes API for more than 20 online text corpora.
+
 ## R Packages
 
-* [phonR](https://cran.r-project.org/web/packages/phonR/index.html): Normalize and plot vowels
+* [lingtypology](https://ropensci.github.io/lingtypology/)
+
+  The lingtypology package connects R with the Glottolog database (v. 2.7) and provides an additional functionality for linguistic typology. The Glottolog database contains a catalogue of the world’s languages. This package helps researchers to make linguistic maps, using the philosophy of the Cross-Linguistic Linked Data project, which is creating a uniform access to linguistic data across publications. This package is based on the leaflet package, so lingtypology is a package for interactive linguistic mapping. In addition, the package provides an ability to download data from typological databases such as WALS, AUTOTYP and others (see section 4).I would like to thank Natalya Tyshkevich, Samira Verhees and Eugenya Klyagina for reading and correcting some versions of this vignette.
+
+* [phonfieldwork](https://agricolamz.github.io/phonfieldwork/)
+
+  phonfieldwork is a package for phonetic fieldwork research and experiments.
+
+* [phonR](https://cran.r-project.org/web/packages/phonR/index.html)
+
+  Normalize and plot vowels
