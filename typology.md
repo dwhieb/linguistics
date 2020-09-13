@@ -8,6 +8,10 @@ The Atlas of Pidgin and Creole Language Structures (APiCS) provides expert-based
 
 Datasets maintained by the CLLD project.
 
+## [Language Contact and Relatedness in the Hindukush Region](https://hindukush.ling.su.se/)
+
+The goal of the project is to produce a typological profile of the languages spoken in the Hindu Kush Region, a mountainous area in north-eastern Afghanistan, northern Pakistan and the northern part of Indian Kashmir. The region is characterized by great linguistic diversity (more than 50 languages, including Indo-Aryan, Iranian, Nuristani, Tibeto- Burman, Turkic and the isolate Burushaski) and a high level of multilingualism. The region has served for centuries as a transit zone between different culture spheres and rival empires. Although a gold mine for the study of language contact and areal phenomena, political circumstances have made it largely unexplored and many questions are yet to be answered, e.g. how some of these languages are related and how they have come to influence one another.
+
 ## [Metathesis in Language 2.0](https://metathesisinlanguage.osu.edu/)
 
 The goal of this project is to provide a broad empirical basis for studying metathesis. This site has a browsable and searchable database of all reported cases of metathesis in the world's languages. Because many of these cases are controversial, we have chosen to be as inclusive as possible, and it is likely that some of the reported cases listed here are not true cases of metathesis. Our hope is that this project will facilitate future research on descriptions, explanations, theories, and typologies of metathesis.
