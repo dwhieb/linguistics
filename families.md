@@ -8,6 +8,10 @@ This page contains resources relevant to specific language families.
 
   The goal of the project is to co-create an on-line, multimedia linguistic atlas of Algonquian languages. The creation of this atlas allows us to offer many training opportunities for sound editing and linguistic description training to Indigenous students. See also the [Algonquian Dictionaries Project](https://resources.atlas-ling.ca/).
 
+* [Bloomfield's Algonquian Sketch (1946)](https://home.cc.umanitoba.ca/~oxfordwr/bloomfield1946/contents.html)
+
+  This is a web version of Leonard Bloomfield’s celebrated Algonquian sketch, a foundational work in Algonquian linguistics. It was prepared by Will Oxford at the University of Manitoba. The only changes from the original publication are the addition of hyperlinks, the correction of some obvious minor typographical errors (view list of corrections), and (for now) the omission of the lengthy bibliography.
+
 * [Database of Algonquian Language Structures](https://alglang.net/)
 
   The Database of Algonquian Language Structures is a project to provide basic information about the sounds and grammar of the Algonquian languages in an easily searchable format. The database is currently in development and we are only in the early stages of adding data.
