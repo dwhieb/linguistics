@@ -66,6 +66,7 @@ Rawang                                | texts                      | [Rawang Tex
 Saami                                 | texts                      | [Skolt Saami Documentation Corpus](http://metashare.csc.fi/repository/browse/skolt-saami-documentation-corpus-2016/3bb9c396987411e3b2eb005056be118efb344a7e95cc4628a7635540c213a0f4/)
 Selkup                                | texts                      | [INEL Selkup Corpus](https://inel.corpora.uni-hamburg.de/SelkupCorpus/search)
 Spanish                               | texts                      | [Google Books](http://googlebooks.byu.edu/)
+Spanish                               | texts                      | [ESLORA Corpus for the Study of Spoken Spanish](http://eslora.usc.es/)
 Swahili                               | dictionary                 | [NooJ Kiswahili](http://www.nooj-association.org/index.php?option=com_k2&view=item&id=120:kiswahili-resource&Itemid=611)
 Tamil                                 | texts                      | [CHILDES Tamil](https://childes.talkbank.org/browser/index.php?url=Other/Tamil/)
 Tlingit                               | texts                      | [Tlingit Conversation Documentation Project](http://www.uas.alaska.edu/arts_sciences/humanities/alaska-languages/cuped/video-conv/)
