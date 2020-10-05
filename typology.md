@@ -32,6 +32,10 @@ Within the typology programme of the Deutsche Forschungsgemeinschaft, 1996-2001,
 
 The World Atlas of Language Structures (WALS) is a large database of structural (phonological, grammatical, lexical) properties of languages gathered from descriptive materials (such as reference grammars) by a team of 55 authors.
 
+## [World Atlas of Transitivity Pairs](https://watp.ninjal.ac.jp/en/)
+
+  The World Atlas of Transitivity Pairs (WATP) is a geo-typological database of morphologically related transitivity pairs such as ak-u ‘to open (intransitive)’: _ak-e-ru_ ‘to open (transitive)’ in Japanese, which participate in the causative alternation (_doa-ga aita_ [The door opened] vs. _Taro-ga doa-o aketa_ [Taro opened the door]). It consists of primary data from about 80 languages contributed by about 50 researchers, which can be downloaded for research purpose.
+
 ## [World Phonotactics Database](https://zenodo.org/record/815506#.XiH6kkuSnD5)
 
 The website for this database is no longer online. However, this Zenodo repository contains a JSON database of the underlying data.
