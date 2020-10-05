@@ -57,6 +57,7 @@ Mixtec                                | texts                      | [Kathryn Jo
 Moro                                  | texts                      | [Moro Story Corpus](http://linguistics.berkeley.edu/moro/#/)
 Mparntwe                              | language learning          | Awemele Itelaretyeke ([iOS](https://apps.apple.com/us/app/awemele-itelaretyeke/id1527955967)) ([Android](https://play.google.com/store/apps/details?id=com.apmere.app))
 Nahuatl                               | dictionary                 | [Condip](http://condip.dk/condip.php)
+Neur                                  | dictionary                 | [Nuer Lexicon](https://www.nuerlexicon.com/)
 Ojibwe                                | dictionary                 | [Ojibwe People's Dictionary](https://ojibwe.lib.umn.edu/)
 Omaha-Ponca                           | dictionary                 | [Ponca Dictionary](https://www.webonary.org/dojomaha-ponca/)
 Pali                                  | texts                      | [SuttaCentral](https://suttacentral.net/)
