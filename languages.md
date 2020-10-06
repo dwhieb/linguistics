@@ -72,6 +72,7 @@ Tamil                                 | texts                      | [CHILDES Ta
 Tlingit                               | texts                      | [Tlingit Conversation Documentation Project](http://www.uas.alaska.edu/arts_sciences/humanities/alaska-languages/cuped/video-conv/)
 Tlingit                               | texts                      | [Tlingit Conversations](https://www.uas.alaska.edu/arts_sciences/humanities/alaska-languages/cuped/video-conv/)
 Tlingit                               | dictionary                 | [English-Tlingit Dictionary](http://www.alaskool.org/language/dictionaries/akn/tlingit/information/Index_TND.html)
+Tupían                                | dictionary                 | [TuLeD](https://tuled.org/)
 Washo                                 | dictionary                 | [Washo Documentation Project](https://lucian.uchicago.edu/blogs/washo/)
 Yurok                                 | dictionary, texts          | [Yurok Language Project](http://linguistics.berkeley.edu/~yurok/index.php)
 Zapotec (Colonial)                    | dictionary, texts          | [TICHA](https://ticha.haverford.edu/en/)
