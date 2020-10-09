@@ -11,6 +11,7 @@
 * [miscellaneous](./misc.md)
 * [multi-language resources](./multi-language.md)
 * [organizations](./organizations.md)
+* [phonetics & phonology](./phonetics-phonology.md)
 * [software](./software.md)
 * [teaching resources](./teaching.md)
 * [typological databases](./typology.md)
