@@ -8,6 +8,10 @@
 
 * [Elk](http://acornslinguistics.com/): Font and keyboard creator
 
+* [Enhanced Electronic Grammars Online](https://www.degruyter.com/view/db/eeg) (<abbr>EEG</abbr>)
+
+  Enhanced Electronic Grammars (EEG) features comprehensive descriptions of languages from around the world. Through this unique Online Reference Work, full grammars are made available together in an interlinked and semantically-annotated format, allowing granular access to the grammatical data and enabling cross-language research of several grammars at the same time. In addition to cross-linguistic queries, each grammar can also be read and researched individually.
+
 * [EOPAS](https://github.com/eopas/eopas)
 
 * [EXMARaLDA](https://exmaralda.org/en/about-exmaralda/)
