@@ -4,6 +4,10 @@
 
 The Atlas of Pidgin and Creole Language Structures (APiCS) provides expert-based information on 130 grammatical and lexical features of 76 pidgin and creole languages from around the world.
 
+## [BivalTyp](https://bivaltyp.info/)
+
+BivalTyp is a typological database of bivalent verbs and their encoding frames. As of 2020, the database presents data for 85 languages, mainly spoken in Northern Eurasia. The database is based on a questionnaire containing 130 predicates given in context. Language-particular encoding frames are identified based on the devices (such as cases, adpositions, and verbal indices) involved in encoding two predefined arguments of each predicate (e.g. ‘Peter’ and ‘the dog’ in ‘Peter is afraid of the dog’). In each language, one class of verbs is identified as transitive. The goal of the project is to explore the ways in which bivalent verbs can be split between the transitive and different intransitive valency classes.
+
 ## [Cross-Linguistic Linked Data](https://clld.org/datasets.html) (<abbr>CLLD</abbr>)
 
 Datasets maintained by the CLLD project.
