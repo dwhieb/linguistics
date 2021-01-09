@@ -86,7 +86,7 @@
 
   The lingtypology package connects R with the Glottolog database (v. 2.7) and provides an additional functionality for linguistic typology. The Glottolog database contains a catalogue of the world’s languages. This package helps researchers to make linguistic maps, using the philosophy of the Cross-Linguistic Linked Data project, which is creating a uniform access to linguistic data across publications. This package is based on the leaflet package, so lingtypology is a package for interactive linguistic mapping. In addition, the package provides an ability to download data from typological databases such as WALS, AUTOTYP and others (see section 4).I would like to thank Natalya Tyshkevich, Samira Verhees and Eugenya Klyagina for reading and correcting some versions of this vignette.
 
-* [phonfieldwork](https://agricolamz.github.io/phonfieldwork/)
+* [phonfieldwork](https://ropensci.github.io/phonfieldwork/)
 
   phonfieldwork is a package for phonetic fieldwork research and experiments.
 
