@@ -18,7 +18,9 @@
 
 * [Hare](http://acornslinguistics.com/): Audio editing software
 
-* [lameta](https://blogs.soas.ac.uk/elar/2020/04/30/introducing-lameta/): Tool for preparing data for archiving
+* [lameta](https://sites.google.com/site/metadatatooldiscussion/home)
+
+  Lameta is a new metadata tool to help with organising collections of files. It is mainly aimed at collections made in the course of documenting language, music, and other cultural expressions.
 
 * [Language Geek](http://www.languagegeek.com/)
 
