@@ -2,11 +2,15 @@
 
 * [7000 Languages](https://www.7000.org/): Create courses in indigenous languages
 
-* [Acorns](http://cs.sou.edu/~harveyd/acorns/): Create language-learning lessons (Windows/Mac/Linux)
+* [Acorns](http://acornslinguistics.com/)
+
+  The name ACORNS stands for [AC]quisition [O]f [R]estored [N]ative [S]peech. The acorn is sacred to tribes in Northern California and Southern Oregon. This acronym honors these tribes whose support helped spawn this project. ACORNS software is free to download and use for non-commercial purposes; that is, it is not for resale.
 
 * [CLDF](https://cldf.clld.org/)
 
-* [Elk](http://acornslinguistics.com/): Font and keyboard creator
+* [Extended Linguistics Keyboards](http://acornslinguistics.com/) (ELK)
+
+  The [E]xtended [L]inquistics [K]eyboards project provides a cross-platform framework for handling indigenous keyboard layouts. It uses the .keylayout stucture because that is the format used on MACs and it is XML based. Prior to ELK, each computer platform had its own way of specifying keyboard mappings. ELK provides the possibility for users to create keyboard mappings with a single uniform approach.
 
 * [Enhanced Electronic Grammars Online](https://www.degruyter.com/view/db/eeg) (<abbr>EEG</abbr>)
 
@@ -70,7 +74,7 @@
 
   Toolbox is a data management and analysis tool for field linguists. It is especially useful for maintaining lexical data, and for parsing and interlinearizing text, but it can be used to manage virtually any kind of data. Toolbox is free to download and use.
 
-* [Wolf](http://cs.sou.edu/~harveyd/wolf/)
+* [Word Oriented Linguistic Framework](http://cs.sou.edu/~harveyd/wolf/) (WOLF)
 
   The motivation for WOLF ([W]ord [O]riented [L]inguistic [F]ramework) is to provide an easy to use framework where linguists can create indigenous dictionaries with a user friendly interface. The software supports, among other things, dictionaries containing up to 100 languages, searching and sorting, import and export facilities, generation of web-pages, integration with the ACORNS mobile apps, multimedia, IPA phonetics. The interface has an EXCEL feel, but geared for use by linguists.
 
