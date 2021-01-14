@@ -28,6 +28,10 @@
 * [Palaeolexicon](https://www.palaeolexicon.com/)
 * [Perseus Digital Library](http://www.perseus.tufts.edu/hopper/)
 * [RefLex (African languages)](https://sites.google.com/site/referencelexicon/)
+* [RefLex](https://reflex.cnrs.fr/Africa/)
+
+The RefLex Project aims at providing the scientific community with a Reference Lexicon of the languages of Africa, as well as various tools to exploit it.
+
 * [RNLD Language Documentation Projects](http://www.rnld.org/documentation_projects)
 * [SegBo: Database of borrowed sounds](https://github.com/segbo-db/segbo)
 * [Syllabics](http://www.syllabics.net/)
