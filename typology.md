@@ -16,6 +16,8 @@ Datasets maintained by the CLLD project.
 
 CLICS³ is an online database of colexifications (polysemies or homophonies) in currently 3156 language varieties of the world.
 
+## [Graz Database on Reduplication](http://reduplication.uni-graz.at/redup/)
+
 ## [Language Contact and Relatedness in the Hindukush Region](https://hindukush.ling.su.se/)
 
 The goal of the project is to produce a typological profile of the languages spoken in the Hindu Kush Region, a mountainous area in north-eastern Afghanistan, northern Pakistan and the northern part of Indian Kashmir. The region is characterized by great linguistic diversity (more than 50 languages, including Indo-Aryan, Iranian, Nuristani, Tibeto- Burman, Turkic and the isolate Burushaski) and a high level of multilingualism. The region has served for centuries as a transit zone between different culture spheres and rival empires. Although a gold mine for the study of language contact and areal phenomena, political circumstances have made it largely unexplored and many questions are yet to be answered, e.g. how some of these languages are related and how they have come to influence one another.
