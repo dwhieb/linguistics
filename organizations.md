@@ -12,6 +12,10 @@
 
   HELP for Endangered Legacy Collections is a new initiative from within the Committee on Endangered Languages and their Preservation (CELP) to assist in the digitization, archiving, and processing of endangered language data. This initiative attempts to tackle two concerns within our field: (1) the fact that many senior researchers nearing retirement need assistance in digitizing, archiving and processing their legacy collections of endangered language data and (2) the fact that there is an increasing number of graduate students who wish to undertake work on endangered languages but are not able to collect their own data due to a variety of reasons, e.g., travel restrictions (especially in the wake of the current global pandemic), lack of funding, family obligations, health concerns, and so on.
 
+* [**Indigitization**](https://www.indigitization.ca/)
+
+  Indigitization is a collaborative initiative between BC Aboriginal groups and academic partners from the University of British Columbia and the University of Northern British Columbia to facilitate capacity building in Indigenous information management.
+
 * [**The Language Archive**](https://archive.mpi.nl/tla/) (<abbr>TLA</abbr>)
 
   The Language Archive is an integral part of the Max Planck Institute for Psycholinguistics in Nijmegen. It contains various types of materials, including: audio and video language corpus data from languages around the world; photographs, notes, experimental data, and other relevant information required to document and describe languages and how people use them; records of speech in everyday interactions in families and communities; naturalistic data from adult conversations from endangered and under-studied languages, and linguistic phenomena.
