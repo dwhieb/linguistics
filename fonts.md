@@ -4,6 +4,7 @@
 * Aboriginal Serif
 * African Sans
 * African Serif
+* [Alegreya](https://fonts.google.com/specimen/Alegreya)
 * Andika
 * Charis SIL
 * DejaVu Sans Mono
