@@ -6,6 +6,7 @@
 * African Serif
 * [Alegreya](https://fonts.google.com/specimen/Alegreya)
 * Andika
+* Brill
 * Charis SIL
 * DejaVu Sans Mono
 * Doulos SIL
